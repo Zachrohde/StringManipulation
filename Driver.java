@@ -3,7 +3,7 @@ public class Driver
 	public static void main(String[] args)
 	{
 		String s2 = "11111elephant";
-		Driver.removeDigits(s2);
+		Driver.removeVowels(s2);
 		Driver.removeConsonants(s2);
 		Driver.removeDigits(s2);
 	}
